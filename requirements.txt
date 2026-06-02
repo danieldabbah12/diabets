@@ -1,6 +1,4 @@
 streamlit
-scikit-learn
 pandas
 numpy
-sklearn.ensemble
-plotly
+scikit-learn
